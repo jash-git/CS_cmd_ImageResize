@@ -1,0 +1,2 @@
+CS_cmd_ImageResize.exe "C:\Users\usernb\Documents\ChangeDesktop\02_RGB.JPG" "C:\Users\usernb\Desktop\02_RGB_2048.JPG" 2048
+CS_cmd_ImageResize.exe "C:\Users\usernb\Documents\ChangeDesktop\02_RGB.JPG" "C:\Users\usernb\Desktop\02_RGB_1024.JPG" 1024

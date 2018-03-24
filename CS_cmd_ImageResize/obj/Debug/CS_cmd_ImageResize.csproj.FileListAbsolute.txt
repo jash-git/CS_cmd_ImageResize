@@ -1,0 +1,5 @@
+C:\Users\usernb\Desktop\CS_cmd_ImageResize\CS_cmd_ImageResize\bin\Debug\CS_cmd_ImageResize.exe
+C:\Users\usernb\Desktop\CS_cmd_ImageResize\CS_cmd_ImageResize\bin\Debug\CS_cmd_ImageResize.pdb
+C:\Users\usernb\Desktop\CS_cmd_ImageResize\CS_cmd_ImageResize\obj\Debug\CS_cmd_ImageResize.csprojResolveAssemblyReference.cache
+C:\Users\usernb\Desktop\CS_cmd_ImageResize\CS_cmd_ImageResize\obj\Debug\CS_cmd_ImageResize.exe
+C:\Users\usernb\Desktop\CS_cmd_ImageResize\CS_cmd_ImageResize\obj\Debug\CS_cmd_ImageResize.pdb
